@@ -25,3 +25,6 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# ファイルを残したまま、管理対象から除外。  
+git rm --cached .env
