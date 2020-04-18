@@ -1,0 +1,5 @@
+Host hello_app_key_rsa
+  Hostname 18.190.136.8
+  Port 22
+  User shuji
+  IdentityFile ~/.ssh/hello_app_key_rsa
